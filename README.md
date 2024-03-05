@@ -6,10 +6,16 @@ Document --https://docs.google.com/document/d/1ZIl0aa7pUgkJql1GCC-ROAwg9LL9zA0nY
 
 The document has following sections:
 -- Survey of Literature  on Sucrose Prediction Using Spectral Indices
+
 -- Generalizable Prediction Methods --- Mixed Model (with Fixed and Random Effects)
+
 -- Selecting Variables --- Bayesian Causal Inference for Spatial Data
+
 -- Platform for Analyzing Spectral Indices at scale --- Wherobots 
--- White Papers/ Blogs from Startups ---  
+
+-- White Papers/ Blogs from Startups ---
+
 -- Research Questions 
+
 -- Modeling - V1
 
